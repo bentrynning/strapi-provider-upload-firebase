@@ -26,6 +26,13 @@
       "url": "http://strapi.io"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bentrynning/strapi-provider-upload-firebase.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bentrynning/strapi-provider-upload-firebase/issues"
+  },
   "engines": {
     "node": ">=10.0.0",
     "npm": ">=6.0.0"
