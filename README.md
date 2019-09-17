@@ -1,4 +1,6 @@
-# strapi-provider-upload-local
+# strapi-provider-upload-firebase
+
+
 
 ## Resources
 
