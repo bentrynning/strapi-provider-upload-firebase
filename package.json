@@ -1,0 +1,40 @@
+{
+  "name": "strapi-provider-upload-firebase",
+  "version": "0.0.1",
+  "description": "firebase provider for strapi upload",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "upload",
+    "strapi"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "email": "bent.rynning@gmail.com",
+    "name": "bentrynning",
+    "url": "http://strapi.io"
+  },
+  "maintainers": [
+    {
+      "name": "bentrynning",
+      "email": "bent.rynning@gmail.com",
+      "url": "http://strapi.io"
+    }
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "dependencies": {
+    "firebase-admin": "^8.5.0"
+  }
+}
